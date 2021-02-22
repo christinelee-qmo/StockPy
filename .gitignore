@@ -1,3 +1,11 @@
+/_x/
+/Hahow/
+/history/
+/slides/
+/notebooks/finlab/
+download_material.py
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
